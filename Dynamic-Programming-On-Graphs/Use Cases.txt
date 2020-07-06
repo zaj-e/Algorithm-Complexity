@@ -1,0 +1,6 @@
+UCS: Best for big graphs
+Dijkstra: Best for smaller graphs
+
+https://repl.it/@TeofiloChambill/BellmanFordSeccion1#main.py
+https://repl.it/@TeofiloChambill/TareaPajaritos#main.py
+https://repl.it/@TeofiloChambill/EjercicioParquePython#main.py
